@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a crypto payment solution as Frontend Developer using React.<br>👯 I’m looking to collaborate on projects involving cryptocurrencies and 3D design.<br>🌱 I’m currently learning Laravel, crypto and 3D technologies.<br>💬 Ask me about anything FE related<br>⚡ Fun fact: I am also a chemical engineer
+🔭 I’m currently working on a crypto payment solution as Frontend Developer using React.<br>👯 I’m looking to collaborate on projects involving cryptocurrencies and 3D design.<br>🌱 I’m currently learning Laravel, crypto payment integration and 3D development technologies.<br>💬 Ask me about anything FE related<br>⚡ Fun fact: I am also a chemical engineer
 
 
 ## 🌐 Socials:
